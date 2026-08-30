@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.aboozakk_maker.twa",
+        "sha256_cert_fingerprints": ["5B:CC:73:0F:4D:8B:AB:19:49:C6:2F:1B:F5:51:C3:10:86:10:AA:CB:16:C4:7C:DF:ED:25:F8:62:02:CB:06:7C"]
+      }
+    }]
